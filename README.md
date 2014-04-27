@@ -17,6 +17,8 @@ Requirements:
   b. Description of file above can be found at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 3. Create a folder in your computer where the unzipped file is located which you will access for the execution of the code.
 
+Output
+=======
 An output called data_averages.txt will be generated that contains the average for the columns selected by subject and activity type in the directory folder created with setwd, unless specified otherwise.
 
 License (as provided by the author):

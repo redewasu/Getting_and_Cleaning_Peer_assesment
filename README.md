@@ -17,7 +17,7 @@ Requirements:
 
 An output called data_averages.txt will be generated that contains the average for the columns selected by subject and activity type in the directory folder created with setwd, unless specified otherwise.
 
-License:
+License (as provided by the author):
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 

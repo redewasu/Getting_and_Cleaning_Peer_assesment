@@ -11,7 +11,9 @@ Requirements:
 
 1. R programming language - this code was written using R-Studio, but running it in R should work just as well.
 2. Access to the internet and access to the file below:
+
   a. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+ 
   b. Description of file above can be found at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 3. Create a folder in your computer where the unzipped file is located which you will access for the execution of the code.
 
